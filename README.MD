@@ -6,14 +6,14 @@ This is a solution to a challenge at DCI (Digital Career Institute). The challen
 
 ## Table of contents
 
-- [Overview](#Overview)
+- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued Development](#continued-development)
-- [Author](#Author)
+- [Author](#author)
 
 
 
@@ -38,7 +38,7 @@ This is a solution to a challenge at DCI (Digital Career Institute). The challen
 - JavaScript
 
 
-### What I have learned
+### What I learned
 
 
 Over the course of this project I was able to significantly develop my Javascript skills, in particular I learned how to edit and access HTML elements via a Javascript file.
