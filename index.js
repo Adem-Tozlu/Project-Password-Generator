@@ -8,19 +8,14 @@ function generator(length, mixedCase) {
   let password = "";
 
   for (let i = 0; i < length; i++) {
-    const lower = [
-      charset[getRandomInt()].toUpperCase(),
-      charset[getRandomInt()].toLowerCase(),
-    ];
-    const lowert = Math.floor(Math.random() * lower.length);
-    const lowerts = lower[lowert];
+ 
 
     const zahl = getRandomInt();
 
     if (mixedCase && i % 3 == 0) {
         password += charset[zahl].toUpperCase();
       } else {
-        password += lowerts;
+        password += charset[zahl];
       }
     }
     return password;
