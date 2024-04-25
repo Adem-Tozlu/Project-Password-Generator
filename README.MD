@@ -1,55 +1,56 @@
-# Password-Generator-App
+# Password generator app
 
-# Project – Password-Generator-App
+# Project – Password Generator App
 
-Dies ist eine Lösung für eine Herausforderung bei der DCI(Digital Career Institut). Die Herausforderungen helfen Ihnen, Ihre Programmierfähigkeiten zu verbessern, indem Sie realistische Projekte erstellen.
+This is a solution to a challenge at DCI (Digital Career Institute). The challenges help you improve your programming skills by creating realistic projects.
 
-## Inhaltsverzeichnis
+## Table of contents
 
-- [Übersicht](#Übersicht)
+- [Overview](#Overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Mein Prozess](#my-process)
-  - [Erstellt mit](#built-with)
-  - [Was ich gelernt habe](#what-i-learned)
-  - [Fortsetzung der Entwicklung](#continued-development)
-- [Autor](#Autor)
+- [My Process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+- [Author](#Author)
 
 
 
-## Überblick
+## Overview
 
-### Bildschirmfoto
+### Screenshot
 
 ![Screenshot](images/password-generator.png)
 
 ### Links
 
-- Lösungs-URL: [Github-Lösungen](https://github.com/Adem-Tozlu/Project-Password-Generator)
-- Live-Site-URL: [Website Sweet-Spot-V4](https://project-sweet-spot-v4.vercel.app/)
+- Solution URL: [Github Solutions](https://github.com/Adem-Tozlu/Project-Password-Generator)
+- Live Site URL: [Website Password-Generator](project-password-generator-chi.vercel.app)
 
-## Mein Prozess
+## My process
 
-### Gebaut mit
+### Built with
 
-- Semantisches HTML5-Markup
-- Benutzerdefinierte CSS-Eigenschaften
-- Mobile-First-Workflow
-
-
-### Was ich gelernt habe
+- Semantic HTML5 markup
+- Custom CSS properties
+- Mobile-first workflow
+- JavaScript
 
 
-Im Verlauf dieses Projekts habe ich meine Fähigkeiten im Bereich CSS verbessert, insbesondere was die Verwendung von "hover" betrifft, und ich habe gelernt, wann und wie ich den "article"-Tag am besten einsetze.
+### What I have learned
 
 
-### Weiterentwicklung
+Over the course of this project I was able to significantly develop my Javascript skills, in particular I learned how to edit and access HTML elements via a Javascript file.
 
-In Zukunft plane ich, meine Fähigkeiten im CSS-Bereich weiter zu verbessern, insbesondere im Zusammenhang mit Flexbox und Grid. Mein Ziel ist es, komplexere Websites zu erstellen und diese besser zu gestalten. Darüber hinaus möchte ich auch an meinen Fähigkeiten im Erstellen von Animationen arbeiten und mich in diesem Bereich weiterentwickeln!
+### Further development
+
+I plan to continue improving my Javascript skills in the future. I'm currently working on deepening my knowledge of combining HTML and Javascript.
 
 
-## Autor
+## Author
 
 - Website - [Github](https://github.com/Adem-Tozlu)
-- Frontend-Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
+- Frontend Mentor – [@Adem-Tozlu](https://www.frontendmentor.io/profile/Adem-Tozlu)
 - Linkedin - [@Adem-Tozlu](https://www.linkedin.com/in/adem-tozlu-8906b52a5)
+

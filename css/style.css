@@ -4,16 +4,16 @@ body {
   }
   
   #output {
- background-color: black;
+ background-color: 	rgb(72,72,72);
     color: white;
     width: 100%;
     margin-bottom: 1rem;
     padding: 1rem 0;
     border: 2px solid #c0c0c0;
     border-radius: 6px;
-    font-size: 3rem;
+    font-size: 100%;
     line-height: 3rem;
-    overflow-wrap: break-word;
+   
 
   }
   
@@ -28,9 +28,4 @@ body {
    
   }
 
-  @media (max-width: 1440px) {
-    #output {
-      font-size: 1rem;
-      line-height: 2rem;
-    }
-  }
+  
