@@ -1,0 +1,36 @@
+body {
+    margin: 1rem 0;
+    
+  }
+  
+  #output {
+ background-color: black;
+    color: white;
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 1rem 0;
+    border: 2px solid #c0c0c0;
+    border-radius: 6px;
+    font-size: 3rem;
+    line-height: 3rem;
+    overflow-wrap: break-word;
+
+  }
+  
+  #length {
+    border: 2px solid #c0c0c0;
+  }
+  
+  #btn-generate {
+    width: 100%;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+   
+  }
+
+  @media (max-width: 1440px) {
+    #output {
+      font-size: 1rem;
+      line-height: 2rem;
+    }
+  }
