@@ -26,7 +26,7 @@ This is a solution to a challenge at DCI (Digital Career Institute). The challen
 ### Links
 
 - Solution URL: [Github Solutions](https://github.com/Adem-Tozlu/Project-Password-Generator)
-- Live Site URL: [Website Password-Generator](project-password-generator-chi.vercel.app)
+- Live Site URL: [Website Password-Generator](project-password-generator-chi.vercel.app/)
 
 ## My process
 
